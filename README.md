@@ -29,7 +29,7 @@ A simple and efficient Todo List application to help you organize and manage you
 1. **Start the application:**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 2. **Access the application:**
