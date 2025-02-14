@@ -14,8 +14,8 @@ A simple and efficient Todo List application to help you organize and manage you
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Aniket-a14/todo_list.git
-   cd todo_list
+   git clone https://github.com/Aniket-a14/Todo_list.git
+   cd Todo_list
    ```
 
 2. **Install dependencies:**
